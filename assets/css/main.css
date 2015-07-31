@@ -917,6 +917,8 @@
 		.image img {
 			display: block;
 			width: 100%;
+			border: 2px solid #B2787E;
+			border-radius: 10px;
 		}
 
 		.image.fit {
